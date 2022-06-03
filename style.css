@@ -10,8 +10,8 @@ h1 {
     color: #DA0037;
     letter-spacing: 16px;
     text-align: center;
-    font-weight: 900;
-    font-size: 60px;
+    font-weight: 500;
+    font-size: 35px;
     font-family: 'Roboto', sans-serif;
 }
 h2 {
@@ -28,7 +28,8 @@ a:hover {
 }
 #moi{
 	width: 500px;
-	box-shadow: 5px 5px 3px black
+	box-shadow: 5px 5px 3px black;
+	border-radius: 4px;
 }
 
 .card-white{
